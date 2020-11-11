@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:43:28.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="YRALU9yB6gnH6RM5K3uh" type="github"><diagram id="KvaNWkCoYmiCyT0ZWtry">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-11T12:31:39.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="oFmvN0nJxpMCKQXDEjnA" version="13.9.2" type="github">
+  <diagram id="KvaNWkCoYmiCyT0ZWtry" name="Page-1">
+    <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-1" value="Hệ thống quản lý hoạt động bệnh viện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-2" value="Khám Bệnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-3" value="Khám tổng quát" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-4" value="Xử lí sau khám" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="255" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-5" value="Đón tiếp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-6" value="Tra cứu hồ sơ bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-7" value="Lập hồ sơ bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="260" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-8" value="Chuyển tiếp bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="320" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-9" value="Lập giấy xác nhận" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-10" value="Lập kết quả khám tổng quát" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-14" value="Điều trị" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-20" value="Ghi nhận thông tin lý lịch bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-21" value="Cập nhật hồ sơ bệnh lý bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="280" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-22" value="Cập nhật ngày xuất viện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="367.5" width="195" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-23" value="Xử lí sau điều trị" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="450" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-24" value="Yêu cầu tái khám" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558.75" y="530" width="147.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-25" value="Lập giấy xuất viện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558.75" y="600" width="151.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-26" value="Lập hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558.75" y="670" width="151.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-27" value="Tài chính kế toán" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-28" value="Lập thống kê hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-29" value="Kiểm kê đối chiếu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-30" value="Lập báo cáo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
