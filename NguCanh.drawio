@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:01:15.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="lA_QZXgi8Qf0L0wWMkHL" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T08:16:02.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BegdDKdcJr_ql81JRmM-" version="13.9.6" type="github">
   <diagram id="k-7xNU-espPo4Ksh-QaM" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="sFPE856OXv_a4uUiH00u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPE856OXv_a4uUiH00u-16" target="sFPE856OXv_a4uUiH00u-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="60" />
+              <mxPoint x="440" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -121,20 +121,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFPE856OXv_a4uUiH00u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.706;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sFPE856OXv_a4uUiH00u-16" target="sFPE856OXv_a4uUiH00u-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="503" y="150" />
-              <mxPoint x="503" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sFPE856OXv_a4uUiH00u-22" value="Báo cáo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sFPE856OXv_a4uUiH00u-21" vertex="1" connectable="0">
-          <mxGeometry x="0.2853" y="-1" relative="1" as="geometry">
-            <mxPoint x="8.5" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sFPE856OXv_a4uUiH00u-16" value="Bộ phận tài chính kế toán" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFPE856OXv_a4uUiH00u-16" value="Bộ phận thanh toán" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFPE856OXv_a4uUiH00u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sFPE856OXv_a4uUiH00u-23" target="sFPE856OXv_a4uUiH00u-1" edge="1">
