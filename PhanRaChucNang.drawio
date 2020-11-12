@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:37:07.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="IGnFPszuLNyU_lJEj3OL" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T09:42:07.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ouTO2UoXOWWYAkxzZio8" version="13.9.6" type="github">
   <diagram id="KvaNWkCoYmiCyT0ZWtry" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,7 +71,10 @@
           <mxGeometry x="790" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1rvTci8TLG_Ej2rMH8-D-1" value="Lập hóa đơn khám bệnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="380" width="151.25" height="40" as="geometry" />
+          <mxGeometry x="275" y="430" width="151.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1rvTci8TLG_Ej2rMH8-D-2" value="Thông báo đến khoa liên quan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="375" width="205" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
