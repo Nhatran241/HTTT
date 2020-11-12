@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T09:20:52.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ay3q89sW9aAy4XT_Wnr9" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T09:41:44.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-F7MOKtzYtUzJc7lze06" version="13.9.6" type="github">
   <diagram id="RPLMbTd_8OytdTSrsAQz" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,8 @@
         <mxCell id="biGSlmb96AjWtifXSgdu-5" value="Thông tin cá nhân&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="biGSlmb96AjWtifXSgdu-2" target="biGSlmb96AjWtifXSgdu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="biGSlmb96AjWtifXSgdu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="biGSlmb96AjWtifXSgdu-2" target="biGSlmb96AjWtifXSgdu-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463.4314575050762" y="323.18019484660533" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="biGSlmb96AjWtifXSgdu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="biGSlmb96AjWtifXSgdu-2" target="biGSlmb96AjWtifXSgdu-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="biGSlmb96AjWtifXSgdu-2" value="Tra cứu hồ sơ bệnh nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="95" width="160" height="80" as="geometry" />
@@ -43,10 +41,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="biGSlmb96AjWtifXSgdu-14" value="Chuyển tiếp bệnh nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="160" height="90" as="geometry" />
+          <mxGeometry x="330" y="240" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="biGSlmb96AjWtifXSgdu-19" value="Thông báo đến khoa liên quan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="160" height="90" as="geometry" />
+          <mxGeometry x="330" y="410" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="biGSlmb96AjWtifXSgdu-28" value="Hóa đơn khám bệnh" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="biGSlmb96AjWtifXSgdu-25" target="biGSlmb96AjWtifXSgdu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="biGSlmb96AjWtifXSgdu-25" value="Lập hóa đơn khám bệnh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
