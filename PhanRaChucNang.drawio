@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T07:18:20.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="tx4gJ8F5PwqWrNqabIa-" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T07:20:38.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="atSmnQwhxi_r-5SU1v4S" version="13.10.0" type="github">
   <diagram id="KvaNWkCoYmiCyT0ZWtry" name="Page-1">
     <mxGraphModel dx="1199" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="vkGjbb_7PXERbVB5Fccl-23" value="Xử lí sau điều trị" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="440" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vkGjbb_7PXERbVB5Fccl-24" value="Tái khám" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vkGjbb_7PXERbVB5Fccl-24" value="Yêu cầu tái khám" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="520" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vkGjbb_7PXERbVB5Fccl-25" value="In giấy xuất viện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
