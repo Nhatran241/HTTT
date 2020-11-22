@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T07:59:53.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="_Qc78LJ8jtu_hS_ihPMy" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T09:07:18.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="tcoVgA8qpWg8tDI9cVDF" version="13.10.0" type="github">
   <diagram id="ow28NsneOe8BZYSyqIUP" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,21 +125,6 @@
               <mxPoint x="20" y="330" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X4gk_abKZxla-AfvRwQS-7" value="Hóa đơn khám bệnh" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.247;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="11v0PXnvtIZo2CiEv95M-4" target="11v0PXnvtIZo2CiEv95M-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="348" y="190" />
-              <mxPoint x="587" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X4gk_abKZxla-AfvRwQS-16" value="Hóa đơn điều trị" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="11v0PXnvtIZo2CiEv95M-4" target="11v0PXnvtIZo2CiEv95M-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="572" y="370" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="11v0PXnvtIZo2CiEv95M-4" value="4.0&lt;br&gt;Tài chính kế toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
