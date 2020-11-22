@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T07:58:47.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="LJsj-8i_fQwYNpSd9zXA" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T07:59:53.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="_Qc78LJ8jtu_hS_ihPMy" version="13.10.0" type="github">
   <diagram id="ow28NsneOe8BZYSyqIUP" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="11v0PXnvtIZo2CiEv95M-4" value="Tài chính kế toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="11v0PXnvtIZo2CiEv95M-4" value="4.0&lt;br&gt;Tài chính kế toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="315" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="11v0PXnvtIZo2CiEv95M-17" value="Cập nhật hồ sơ bệnh án" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.401;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="11v0PXnvtIZo2CiEv95M-5" target="11v0PXnvtIZo2CiEv95M-16" edge="1">
@@ -193,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11v0PXnvtIZo2CiEv95M-5" value="Điều Trị" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="11v0PXnvtIZo2CiEv95M-5" value="3.0&lt;br&gt;Điều Trị" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="310" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="11v0PXnvtIZo2CiEv95M-10" value="Tra cứu hồ sơ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.987;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="11v0PXnvtIZo2CiEv95M-8" target="11v0PXnvtIZo2CiEv95M-3" edge="1">
