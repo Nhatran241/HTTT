@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T08:27:24.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="3YrU3Cb83s17VmJMpgpy" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T08:52:55.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="EnmgS42NKY-BtqFl-wRr" version="13.10.0" type="github">
   <diagram id="k-7xNU-espPo4Ksh-QaM" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,30 @@
         <mxCell id="dA-d5hdOSbnPZ9TldgSD-13" value="Hồ sơ bênh nhân" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dA-d5hdOSbnPZ9TldgSD-12">
           <mxGeometry x="-0.3191" y="-2" relative="1" as="geometry">
             <mxPoint x="18.32" y="-2.29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-18" value="Hóa đơn khám bệnh" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFPE856OXv_a4uUiH00u-1" target="dA-d5hdOSbnPZ9TldgSD-8">
+          <mxGeometry x="-0.0886" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="165" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-20" value="Hóa đơn điều trị" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFPE856OXv_a4uUiH00u-1" target="sFPE856OXv_a4uUiH00u-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-21" value="Hóa đơn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFPE856OXv_a4uUiH00u-1" target="sFPE856OXv_a4uUiH00u-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="194" />
+              <mxPoint x="350" y="130" />
+              <mxPoint x="133" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sFPE856OXv_a4uUiH00u-1" value="Hệ thống quản lý hoạt động của bệnh viện" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -196,6 +220,13 @@
             <mxPoint x="-18.5" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-19" value="Yêu cầu hóa đơn điều trị" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.621;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFPE856OXv_a4uUiH00u-23" target="sFPE856OXv_a4uUiH00u-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sFPE856OXv_a4uUiH00u-23" value="Khoa / Trung tâm điều trị" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="310" width="150" height="50" as="geometry" />
         </mxCell>
@@ -224,6 +255,18 @@
             <Array as="points">
               <mxPoint x="745" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.971;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dA-d5hdOSbnPZ9TldgSD-8" target="sFPE856OXv_a4uUiH00u-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dA-d5hdOSbnPZ9TldgSD-17" value="Yêu cầu hóa đơn khám bệnh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dA-d5hdOSbnPZ9TldgSD-16">
+          <mxGeometry x="-0.1375" y="2" relative="1" as="geometry">
+            <mxPoint x="-16.1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dA-d5hdOSbnPZ9TldgSD-8" value="Bộ phận tiếp nhận" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
